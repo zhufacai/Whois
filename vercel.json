@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "index.php": {
+      "runtime": "vercel-php@0.5.2",
+      "memory": 256,
+      "maxDuration": 5
+    }
+  },
+  "routes": [{ "src": "/(.*)", "dest": "index.php" }]
+}
