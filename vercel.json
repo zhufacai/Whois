@@ -6,5 +6,4 @@
       "maxDuration": 5
     }
   },
-  "routes": [{ "src": "/(.*)", "dest": "index.php" }]
 }
