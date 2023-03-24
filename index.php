@@ -82,7 +82,7 @@ var _hmt = _hmt || [];
 <body>
 <div class="main">
 <form action="<?php $_SERVER['PHP_SELF'];?>" id="form" class="form">
-<h1><a href="https://222.ee">222.ee</a> - <a href="https://dan.com/zh-cn/buy-domain/222.ee">domain is for sale</a></h1>
+<h1><a href="/">222.ee</a> - <a href="https://dan.com/zh-cn/buy-domain/222.ee">domain is for sale</a></h1>
 <div class="search">
 <input type="text" name="domain" id="domain" autocomplete="on" placeholder="Domain Name/IP">
 <button id="submit" value="whois">WHOIS</button>
